@@ -3,7 +3,7 @@
 A very simple nvim config. Despite not being polished, it is usable.
 
 ## Plugin Manager
-Used [lazy.nvim](https://github.com/folke/lazy.nvim)
+Uses [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ## Plugins
 
