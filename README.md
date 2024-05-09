@@ -1,6 +1,6 @@
 # nvim-setup
 
-A very simple nvim config. While it is not polished, it is usable.
+A very simple nvim config. Despite not being polished, it is usable.
 
 ## Plugin Manager
 Used [lazy.nvim](https://github.com/folke/lazy.nvim)
